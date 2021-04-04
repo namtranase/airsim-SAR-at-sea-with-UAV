@@ -1,5 +1,5 @@
 ﻿# Airsim: Search and Rescue SAR at sea with UAV integrated Artificial Intelligence
-[cite] Tuan Do Trong, Quan Tran Hai, Nam Tran Duc, Thanh Han Trong. A Novelty Approach to Emulate Field Data Captured by Unmanned Aerial Vehicles for Training Deep Learning Algorithms Used for Search-and-Rescue Activities at Sea. 
+[cite] Do Trong, T., Hai, Q. T., Duc, N. T., & Thanh, H. T. (2021, January). A Novelty Approach to Emulate Field Data Captured by Unmanned Aerial Vehicles for Training Deep Learning Algorithms Used for Search-and-Rescue Activities at Sea. In 2020 IEEE Eighth International Conference on Communications and Electronics (ICCE) (pp. 288-293). IEEE.
 ## 1. Introduction
 The method used to build a simulated marine environment using Unreal Engine 4 and collect datasets from the environment via cameras from UAV supported by Airsim. After that, the Faster-RCNN Inception-V2 is transferred to the new dataset from the simulation environment. Finally, the victim search algorithm is proposed for the scenario of an accident and send it to the GPS location of the victims from the UAV. The Search and Rescue system diagram is illustrated below:
 <p align="center">
